@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://zmn.sishao.com.cn/:splat"
+  status = 200
+  force = true
