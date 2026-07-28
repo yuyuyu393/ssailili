@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://nhysa.nualkd.app/admin/login.php:splat"
-  status = 200
-  force = true
