@@ -1,6 +1,6 @@
 <?php
 // 【注意：双引号里面改成真实红域名】
-$target_url = "http://这里填真实网址.com"; 
+$target_url = "https://ygxian.jiuzhe.com.cn/"; 
 
 $request_uri = $_SERVER['REQUEST_URI'];
 
